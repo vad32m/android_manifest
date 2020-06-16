@@ -4,6 +4,8 @@
   <remote  name="aosp"
            fetch="https://android.googlesource.com/platform/"
            review="https://android-review.googlesource.com/" />
+  <remote  name="github"
+           fetch="ssh://git@github.com/vad32m/" />
   <default revision="refs/tags/android-9.0.0_r35"
            remote="aosp"
            sync-j="4" />
