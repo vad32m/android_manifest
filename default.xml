@@ -713,6 +713,7 @@
   <project path="vendor/vadym" remote="github" name="gl-android-training-2020" revision="vad32m.vendor" groups="pdk" />
   <project path="vendor/vadym/apps/FloatExchangeService" remote="github" name="gl-android-training-2020" revision="service" groups="pdk" />
   <project path="vendor/vadym/apps/FloatWriter" remote="github" name="gl-android-training-2020" revision="writer.app" groups="pdk" />
+  <project path="vendor/vadym/hardware" remote="github" name="gl-android-training-2020" revision="hal" groups="pdk" />
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
